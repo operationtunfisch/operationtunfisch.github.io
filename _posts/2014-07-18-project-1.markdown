@@ -5,6 +5,6 @@ img: president.jpg
 alt: image-alt
 title: Was ist eine Klimakuh?
 description: 'Eine Klimakuh ist eine Kuh, die macht nicht einfach "muh!". Eine Klimakuh ist eine außergewöhnliche Internetpersönlichkeit, die man melken kann. Diese Art von Kuh gibt allerdings keine normale Milch sondern sogenannte Klimalolle. Um in höhere Sicherheitsebenen der Operation Thunfisch vorzudringen muss genug Klimalolle gesammelt und in die Telegramsekte gebracht werden. Klicken Sie auf das nächste Bild um herauszufinden was Klimalolle ist und wie man es sammelt. Abschließend hier noch ein typisches Beispiel einer ausgewachsenen Klimakuh:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mk6m3qsXPQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mk6m3qsXPQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 ---
