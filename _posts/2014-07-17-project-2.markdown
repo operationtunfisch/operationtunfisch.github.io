@@ -4,6 +4,6 @@ modal-id: 2
 img: wakeup.jpg
 alt: image-alt
 title: Was ist Klimalolle?
-description: 'Klimalolle ist der neue Rohstoff unserer Zeit. Zum Glück ist er vollständig erneuerbar und unerschöpflich, genauso wie die Sonne! Er entsteht, wenn die Klimkühe zu unserer Unterhaltung gemolken werden. Tritt der Telegramsekte bei und tu deinen Teil! Erde retten!!!'
+description: 'Klimalolle ist der neue Rohstoff unserer Zeit. Zum Glück ist er vollständig erneuerbar und unerschöpflich, genauso wie die Sonne! Er entsteht, wenn die Klimakühe zu unserer Unterhaltung gemolken werden. Tritt der Telegramsekte bei und tu deinen Teil! Erde retten!!!'
 
 ---

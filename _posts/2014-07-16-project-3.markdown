@@ -4,6 +4,6 @@ modal-id: 3
 img: spread.jpg
 alt: image-alt
 title: Lolle verteilen?
-description: 'Die Lolle verteilen! Verteilen Sie die Lolle im Internet. Schauen Sie was in der Telegramsekte abgeht und verbreiten Sie die Lolle! Aber Obacht, die Internetknechte wollen uns aufhalten. Unser Youtube account wurde sofort zerstört. Aber der Klimakrieg beginnt gerade erst. Verbreiten Sie die Lolle per Telegram, Whatsapp, Linkedin oder wo ihr Boomer halt sonst noch so rumhängt. Urheberrecht ist was für Echsenmenschen! Verbreiten Sie die Lolle und sorgen Sie dafür, dass die Leute der Telegramsekte beitreten!  '
+description: 'Die Lolle verteilen! Verteilen Sie die Lolle im Internet. Schauen Sie was in der Telegramsekte abgeht und verbreiten Sie die Lolle! Aber Obacht, die Internetknechte wollen uns aufhalten. Unser Youtube account wurde sofort zerstört. Aber der Klimakrieg beginnt gerade erst. Verbreiten Sie die Lolle per Telegram, Whatsapp, Linkedin oder wo ihr Boomer sonst noch so rumhängt. Urheberrecht ist was für Echsenmenschen! Verbreiten Sie die Lolle und sorgen Sie dafür, dass die Leute der Telegramsekte beitreten!  '
 
 ---
