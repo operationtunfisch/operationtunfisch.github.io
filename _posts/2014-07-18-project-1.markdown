@@ -1,12 +1,10 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+img: president.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: Was ist eine Klimakuh?
+description: 'Eine Klimakuh ist eine Kuh, die macht nicht einfach "muh!". Eine Klimakuh ist eine außergewöhnliche Internetpersönlichkeit, die man melken kann. Diese Art von Kuh gibt allerdings keine normale Milch sondern sogenannte Klimalolle. Um in höhere Sicherheitsebenen der Operation Thunfisch vorzudringen muss genug Klimalolle gesammelt und in die Telegramsekte gebracht werden. Klicken Sie auf das nächste Bild um herauszufinden was Klimalolle ist und wie man es sammelt. Abschließend hier noch ein typisches Beispiel einer ausgewachsenen Klimakuh:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mk6m3qsXPQU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 
 ---
